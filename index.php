@@ -38,14 +38,14 @@
     <link rel="manifest" href="img/favicons/manifest.json" />
     <meta
       name="msapplication-TileImage"
-      content="/img/favicons/mstile-150x150.png"
+      content="img/favicons/mstile-150x150.png"
     />
     <meta name="theme-color" content="#ffffff" />
 
     <!-- ===============================================-->
     <!--    Stylesheets-->
     <!-- ===============================================-->
-    <link href="/css/theme.css" rel="stylesheet" />
+    <link href="css/theme.css" rel="stylesheet" />
   </head>
 
   <body>
