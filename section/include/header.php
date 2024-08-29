@@ -45,7 +45,7 @@
 
         <!-- <link href="/assets/supported/css/owl.theme.default.min.css" rel="stylesheet"> -->
 
-        <link href="/supported/css/templatemo-medic-care.css" rel="stylesheet">
+        <link href="supported/css/templatemo-medic-care.css" rel="stylesheet">
 
 <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
                 <div class="container">
