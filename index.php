@@ -45,7 +45,7 @@
     <!-- ===============================================-->
     <!--    Stylesheets-->
     <!-- ===============================================-->
-    <link href="/assets/css/theme.css" rel="stylesheet" />
+    <link href="/css/theme.css" rel="stylesheet" />
   </head>
 
   <body>
@@ -59,7 +59,7 @@
     <main class="main" id="top">
       <!-- header -->
       <?php
-include("section/include/header.php");
+include("../section/include/header.php");
 ?>
 
       <section class="py-xxl-10 pb-0" id="home">
