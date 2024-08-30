@@ -45,11 +45,11 @@
 
         <!-- <link href="/assets/supported/css/owl.theme.default.min.css" rel="stylesheet"> -->
 
-        <link href="supported/css/templatemo-medic-care.css" rel="stylesheet">
+        <link href="/supported/css/templatemo-medic-care.css" rel="stylesheet">
 
 <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
                 <div class="container">
-                    <a class="navbar-brand mx-auto d-lg-none" href="index.php">
+                    <a class="navbar-brand mx-auto d-lg-none" href="index.html">
                         H.C.M.S
                         <strong class="d-block">Health Care Mangement System</strong>
                     </a>
